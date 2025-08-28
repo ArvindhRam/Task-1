@@ -1,0 +1,15 @@
+a=rand(5,5); %matrix declaration
+for i=1:5 %iteration  loop for matrix
+    for j=1:5
+        if i==j
+            a(i,j)=i^2+j^2;
+        else if i>j
+                a(i,j)=i^2+j;
+        else
+            a(i,j)=i+j^2;
+        end
+        end
+    end
+end
+disp(a)%display matrix
+disp(sum(sum(a)))%determinant of matrix 
