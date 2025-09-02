@@ -37,7 +37,7 @@ Completed MATLAB Onramp course
 Running the Scripts
 Clone the repository:
 
-git clone https://github.com/Sahilkumars2006/System_coding_club_Task1.git
+git clone https://github.com/ArvindhRam/Task-1
 Navigate to the project directory:
 
 cd System_coding_club_Task1
@@ -109,9 +109,9 @@ Guidelines Followed
 ✅ Refrained from direct code copying
 ✅ Used debugging assistance only when necessary
 Author
-Sahil Kumar
+Arvindh Ram
 
-GitHub: @Sahilkumars2006
+GitHub: @arvindhramsenthilkumar
 Submission Details
 Deadline: September 5th, 2025
 Repository: Public GitHub repository with all required files
